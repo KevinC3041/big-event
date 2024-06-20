@@ -24,8 +24,8 @@ public class User {
     //邮箱
     private String email;
 
-    //头像
-    private String user_pic;
+    //用户头像地址
+    private String userPic;
 
     //创建时间
     private LocalDateTime createTime;
